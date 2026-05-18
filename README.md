@@ -58,5 +58,5 @@
 * `data/` — Ссылки на исходные файлы данных (или сэмплы, если применимо).
 
 ---
-
-## 🛂 Мои контакты
+**Аналитик:** Макоев Вадим Акимович  
+**Связь:** Telegram: Monahui0 // LinkedIn: www.linkedin.com/in/vadim-makoev-82aa963ab // Email-1: vadimus9makkk@gmail.com // Email-2: mr.makoeff2@gmail.com
